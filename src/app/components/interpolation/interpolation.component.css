@@ -1,0 +1,9 @@
+.container{
+    margin:auto;
+    
+    width:50%;
+    border:2px solid antiquewhite;
+    background-color: rgb(250, 222, 215);
+    padding:20px;
+    text-align: center;
+}
